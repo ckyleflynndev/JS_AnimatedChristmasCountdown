@@ -2,4 +2,4 @@
 
 
 https://codepen.io/Ckflynndev/pen/vYmdzEQ
-Instead of pulling you can see on codepen
+Instead of cloning you can see on codepen
