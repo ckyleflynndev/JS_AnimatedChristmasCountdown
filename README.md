@@ -1,4 +1,4 @@
-# JS_AnimatedChristmasCountdown
+Animated New Years countdown
 
 
 https://codepen.io/Ckflynndev/pen/vYmdzEQ
